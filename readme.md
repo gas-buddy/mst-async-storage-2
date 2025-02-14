@@ -10,8 +10,12 @@ A [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) extension grantin
 
 # Installing
 
+Notice that the package depends on `react-native-mmkv`, while it doesn't install `react-native-mmkv` along with itself.
+So the app needs to add the dependency `react-native-mmkv`.
+
 ```sh
 yarn add mst-async-storage-2
+yarn add react-native-mmkv@x.y.z -- replace "x.y.z" with the actual version
 ```
 
 # Usage
