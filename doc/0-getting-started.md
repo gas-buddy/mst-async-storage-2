@@ -7,5 +7,3 @@ Fork from forked from [@gas-buddy/mst-async-storage](https://github.com/gas-budd
 (Check the first commit for the details)
 
 # 3 `yarn install`
-
-# 4
